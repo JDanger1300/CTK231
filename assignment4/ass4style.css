@@ -1,0 +1,72 @@
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+  background-image: url(whitebg.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+h1 {
+    background-color: rgb(66, 66, 66);
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+}
+h2 {
+   background-color: rgb(66, 66, 66);
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+}
+h3 {
+    background-color: rgb(66, 66, 66);
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+}
+h4 {
+    background-color: rgb(66, 66, 66);
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+}
+
+p {
+    background-color: rgb(179, 178, 178);
+}
+
+ul {
+    background-color: rgb(179, 178, 178);
+}
+
+.imgbox {
+    width: 150px;
+    height: 150px;
+    size-adjust: 0.3;
+    border: 10px solid black;
+    padding: 15px;
+    background-color:rgb(208, 208, 8);
+}
+
+
+.textright {
+    text-align: right;
+}
+
+.textleft {
+    text-align: left;
+    letter-spacing: 20px;
+}
+
+.textcenter {
+    text-align: center;
+    
+}
+
+.textjustify {
+    text-align: justify;
+}
+
