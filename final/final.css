@@ -232,7 +232,12 @@ main p{
 
 main a{
     color: #909090;
+   -webkit-text-stroke: 0;
 text-decoration: none;
+     -1px -1px 0 #cfcfcf,
+     1px -1px 0 #cfcfcf,
+    -1px  1px 0 #cfcfcf,
+     1px  1px 0 #cfcfcf;
 transition: color 0.3s, text-shadow 0.3s;
 }
 main a:hover {
@@ -333,3 +338,4 @@ margin: -50px 0 -50px 75px;
   height: auto;
   display: block;
 }
+
